@@ -1,20 +1,68 @@
-![]([https://unsplash.com/photos/ML4e0FZPn10](https://images.unsplash.com/photo-1580197161959-8fb3ad6539ef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=892&q=80))
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Joaquín Cisternas </h1>
 
-### Hi there 👋 I'm Joaquín Cisternas
+<div align="center">
+    <img src='https://media.tenor.com/Vb3g5JF3MB4AAAAC/neco-arc-taunt.gif' style="border-radius: 10px; width: 150px;">
+</div>
 
-I am an industrial engineering student at the University of Chile and Master in Data Science candidate. I enjoy economics, finance, data, and music.
+I am an industrial engineering student at the University of Chile and Master in Data Science candidate. I love economics, finance, data, and music.
 
-<!--
-**jcist/jcist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
+<br>
 
-Here are some ideas to get you started:
+<p align="center">
+    <a href="https://www.linkedin.com/in/joaquin-cisternas-fernandez/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:joacister@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me 
+
+<br>
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+- 📈 Currently, I am furthering my knowledge in data science, particularly I'm interested in topics related to deep learning and its current applications.
+- 🧑‍🎓 I am assistant professor of two courses in the Department of Industrial Engineering at the University of Chile: Probability and Marketing Engineering.
+- 🎶 I love music, I'm always looking for something new to listen to, currently I'm listening [this album](https://open.spotify.com/album/1oHUngg3flG4Zda1Ukp8vP?si=inh2v-aIR7a4x09BRjyp0Q). If you have recomendations, share it!
+
+<br>
+<br>
+
+<div align='center'>
+<img src="https://github-readme-stats.vercel.app/api?username=jcist&count_private=true&show_icons=true&custom_title=Github&theme=chartreuse-dark&bg_color=0,000000,130F40&layout=compact&border_radius=8">
+</div>
+
+<br>
+<br>
+
+## Tech Stack 🛠️
+
+Programming Languages
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+Data Science and Machine Learning Frameworks
+
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white])
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white])
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=flat-square&logo=plotly&logoColor=white])
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white])
+![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white])
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+Enviroments, Containers, Deploy, CI, etc.
+
+![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=flat-square&logo=anaconda&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+
+
+Others
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![vscode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
