@@ -26,7 +26,7 @@ I am an industrial engineering student at the University of Chile and Master in 
 
 - 📈 Currently, I am furthering my knowledge in data science, particularly I'm interested in topics related to deep learning and its current applications.
 - 🧑‍🎓 I am assistant professor of two courses in the Department of Industrial Engineering at the University of Chile: Probability and Marketing Engineering.
-- 🎶 I love music, I'm always looking for something new to listen to, currently I'm listening [this album](https://open.spotify.com/album/1oHUngg3flG4Zda1Ukp8vP?si=inh2v-aIR7a4x09BRjyp0Q). If you have recomendations, share it!
+- 🎶 I love music, I'm always looking for something new to listen to, currently I'm listening [this album](https://open.spotify.com/album/1RvvABlCfq4x7U5XwWDfD4?si=Usfcmn5RSl2meKJejEqUeg). If you have recomendations, share it!
 
 <br>
 <br>
